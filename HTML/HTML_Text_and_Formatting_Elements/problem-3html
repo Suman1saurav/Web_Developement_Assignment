@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Daily News</title>
+</head>
+<body>
+
+    <h1>Daily News</h1>
+
+    <h2>GLA University Students Participate in Technology Event</h2>
+
+    <p>
+        Student Name: Suman Saurav
+        <br>
+        College Name: GLA University
+    </p>
+
+    <p>
+        GLA University organized a technology-focused event for students.
+        The event provided students with an opportunity to demonstrate their
+        technical knowledge, creativity, and problem-solving abilities.
+    </p>
+
+    <p>
+        The event was held on <mark>August 27, 2026</mark> at
+        <mark>GLA University</mark>. <strong>More than 500 students
+        participated in the event.</strong> Students presented projects
+        related to Computer Science, Networking, Artificial Intelligence,
+        and other modern technologies.
+    </p>
+
+    <p>
+        Students actively participated in different activities and learned
+        about new technologies. <em>The event encouraged students to develop
+        practical skills and think creatively.</em>
+    </p>
+
+    <p>
+        Suman Saurav, a first-year BTech Computer Science student at
+        GLA University, also showed interest in the technology activities.
+        Such events help students gain practical knowledge and improve their
+        communication and teamwork skills.
+    </p>
+
+    <hr>
+
+    <h2>Editor's Note</h2>
+
+    <p>
+        Technology events provide students with valuable opportunities to
+        learn beyond the classroom. They help students develop confidence,
+        technical skills, teamwork, and practical knowledge for their future
+        careers.
+    </p>
+
+    <hr>
+
+    <h2>Campus News: New Computer Facilities at GLA University</h2>
+
+    <p>
+        GLA University has continued to improve its computer and technology
+        facilities for students. The facilities provide students with
+        opportunities to practice programming, networking, and other
+        computer science concepts.
+    </p>
+
+    <p>
+        <strong>The new facilities are designed to support practical
+        learning and academic projects.</strong> Students can use these
+        resources to improve their technical knowledge and develop innovative
+        projects.
+    </p>
+
+    <p>
+        <em>Practical learning plays an important role in developing
+        professional skills.</em> Students are encouraged to participate
+        in projects, competitions, workshops, and other technical activities.
+    </p>
+
+    <hr>
+
+    <h2>Editor's Note</h2>
+
+    <p>
+        GLA University students can benefit from these facilities by
+        combining classroom knowledge with practical experience and
+        continuous learning.
+    </p>
+
+</body>
+</html>
