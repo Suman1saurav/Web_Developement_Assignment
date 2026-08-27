@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Profile</title>
+</head>
+<body>
+
+    <h1>Suman Saurav</h1>
+
+    <h2>Career Objective</h2>
+    <p>
+        My career objective is to build a successful career in
+        <strong>Computer Science</strong>. I want to develop my technical
+        knowledge and gain practical experience in the field of technology.
+    </p>
+
+    <h2>Education</h2>
+    <p>
+        I am currently pursuing <b>BTech in Computer Science</b>.
+        I am a <strong>1st year student</strong> at GLA University.
+    </p>
+
+    <h2>Skills</h2>
+    <p>
+        My technical skills include <b>HTML</b>, Networking, Linux,
+        and basic computer programming. I am
+        <em>interested in learning new technologies</em>
+        and improving my technical skills.
+    </p>
+
+    <h2>Strengths</h2>
+    <p>
+        My strengths are <strong>quick learning</strong>, teamwork,
+        communication, and problem-solving. I am
+        <u>dedicated to improving myself</u> and learning from
+        new experiences.
+    </p>
+
+    <h2>Key Achievement</h2>
+    <p>
+        One of my key achievements is developing my basic knowledge of
+        <strong>Computer Science and Information Technology</strong>
+        during my first year of BTech.
+    </p>
+
+    <h2>Personal Statement</h2>
+    <p>
+        I am a <b><i>motivated and hardworking student</i></b>
+        who believes in continuous learning. I always try to improve
+        my knowledge and develop skills that will help me in my future career.
+    </p>
+
+    <h2>Career Goal</h2>
+    <p>
+        My career goal is to become a
+        <mark>successful Computer Science professional</mark>
+        and build a strong career in the technology industry.
+    </p>
+
+    <h2>My Quote</h2>
+    <p>
+        <i>"Learn new things every day and keep moving towards your goal."</i>
+    </p>
+
+</body>
+</html>
